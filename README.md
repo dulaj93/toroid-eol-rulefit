@@ -5,7 +5,7 @@ whether a toroidal transformer will fail its first end-of-line (EOL) electrical 
 recorded before the test. A Streamlit app shows each prediction with the rules that fired and an exact
 contribution waterfall.
 
-**Live app:** _link added after deployment_
+**Live app:** https://toroid-eol-rulefit.streamlit.app/ (Streamlit Community Cloud; if it shows "This app has gone to sleep", click the wake-up button and wait about a minute)
 
 ## Repository contents
 
