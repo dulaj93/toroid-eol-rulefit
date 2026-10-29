@@ -1,0 +1,9 @@
+# Everything needed to re-run toroid_eol_rulefit.ipynb (training, benchmarks, XAI figures).
+-r requirements.txt
+matplotlib==3.11.2
+seaborn==0.13.2
+shap==0.54.1
+catboost==1.2.10
+nbformat==5.11.1
+nbconvert==7.17.2
+ipykernel==7.4.0
